@@ -21,3 +21,6 @@ print(str4.strip())  #remove all white spaces
 print(str4.lstrip())  #remove left space only
 
 print(str4.rstrip())  #remove right space only
+
+print("hi jira3")
+print("hi jira4")
