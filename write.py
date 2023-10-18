@@ -11,3 +11,5 @@ with open("text.txt", "r") as reader:
 
 print("hi jira5")
 print("hi jira6")
+print("hi jira5")
+print("hi jira6")
