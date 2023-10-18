@@ -15,6 +15,8 @@ print(var)
 print(var[0])  # print 0th index
 
 str4 = " great "
+print("hi jira5")
+print("hi jira6")
 print(str4.strip())  #remove all white spaces
 
 

@@ -9,4 +9,5 @@ with open("text.txt", "r") as reader:
         for line in reversed(content):  #iterate the reveresed content line by line
             writer.write(line)
 
-
+print("hi jira5")
+print("hi jira6")
