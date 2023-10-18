@@ -24,3 +24,8 @@ print(str4.rstrip())  #remove right space only
 
 print("hi jira3")
 print("hi jira4")
+
+print("hi jira5")
+print("hi jira6")
+print("hi jira7")
+print("hi jira8")
